@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Http-Asyc</string>
+    <string name="str_network_not_good">网络不好</string>
+    <string name="str_camera">获取图片</string>
+    <string name="action_pick_pic_from_gallery">从相册选择</string>
+    <string name="action_pick_pic_from_camera">拍照</string>
+    <string name="str_sdcard_not_available">SD卡不可用</string>
+</resources>
